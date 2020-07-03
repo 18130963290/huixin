@@ -11,6 +11,7 @@ public class HuixinApplicationTests {
 
     @Test
     public void contextLoads() {
+        system.out.printh("你好");
     }
 
 }
