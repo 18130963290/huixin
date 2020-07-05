@@ -12,7 +12,7 @@ public class HuixinApplicationTests {
     @Test
     public void contextLoads() {
 
-        System.out.println("我的第一次拉取");
+        System.out.println("我的第一次拉取，我收到了");
     }
 
 }
