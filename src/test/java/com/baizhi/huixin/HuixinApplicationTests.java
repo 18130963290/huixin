@@ -13,6 +13,7 @@ public class HuixinApplicationTests {
     public void contextLoads() {
 
         System.out.println("我的第一次拉取，我收到了");
+        System.out.println("我是来产生冲突的");
     }
 
 }
