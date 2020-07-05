@@ -11,7 +11,8 @@ public class HuixinApplicationTests {
 
     @Test
     public void contextLoads() {
-        system.out.printh("你好");
+
+        System.out.println("我的第一次拉取");
     }
 
 }
